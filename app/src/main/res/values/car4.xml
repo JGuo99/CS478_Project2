@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_four">Toyota Dealerships</string>
+
+    <string-array name="toyota_dealerships">
+        <item>
+            Chicago Northside Toyota\n6042 N Western Ave, Chicago, IL 60659
+        </item>
+        <item>
+            Midtown Toyota\n2700 N Cicero Ave, Chicago, IL 60639
+        </item>
+        <item>
+            Toyota On Western\n6941 S Western Ave, Chicago, IL 60636
+        </item>
+    </string-array>
+</resources>

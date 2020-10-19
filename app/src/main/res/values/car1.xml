@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_one">Audi Dealerships</string>
+
+    <string-array name="audi_dealerships">
+        <item>
+            Continental Audi of Naperville\n1527 Aurora Ave, Naperville, IL 60540
+        </item>
+        <item>
+            Fletcher Jones Audi\n1523 W North Ave, Chicago, IL 60642
+        </item>
+        <item>
+            Audi Morton Grove\n7000 Golf Rd, Morton Grove, IL 60053
+        </item>
+    </string-array>
+</resources>

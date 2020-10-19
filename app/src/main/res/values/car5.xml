@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_five">Nissan Dealerships</string>
+
+    <string-array name="nissan_dealerships">
+        <item>
+            Berman Nissan of Chicago\n3456 N Kedzie Ave, Chicago, IL 60618
+        </item>
+        <item>
+            Western Avenue Nissan\n7410 S Western Ave, Chicago, IL 60636
+        </item>
+        <item>
+            Al Piemonte Nissan\n1600 W North Ave, Melrose Park, IL 60160
+        </item>
+    </string-array>
+</resources>

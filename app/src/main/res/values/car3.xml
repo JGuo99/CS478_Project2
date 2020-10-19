@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_three">Aston Martin Dealerships</string>
+
+    <string-array name="aston_dealerships">
+        <item>
+            Napleton Aston Martin Chicago\n1038 N Clark St, Chicago, IL 60610
+        </item>
+        <item>
+            Aston Martin Dealership of Glenview\n301 Waukegan Rd, Glenview, IL 60025
+        </item>
+        <item>
+            Napleton Aston Martin Downers Grove\n217 Ogden Ave, Downers Grove, IL 60515
+        </item>
+    </string-array>
+</resources>

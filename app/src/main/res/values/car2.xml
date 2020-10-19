@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_two">Mercedes Dealerships</string>
+
+    <string-array name="mercedes_dealerships">
+        <item>
+            Mercedes-Benz of Chicago\n1520 W North Ave, Chicago, IL 60642
+        </item>
+        <item>
+            Mercedes-Benz Loeber Motors\n2767 Lincolnwood, Il 60712
+        </item>
+        <item>
+            Mercedes-Benz of Westmont\n200 E Ogden Ave, Westmont, IL 60559
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+Mazda:
+	Dealer1: McGrath City Mazda
+		3255 N Cicero Ave, Chicago, IL 60641
+
+	Dealer2: The Autobarn Mazda of Evanston
+		1015 Chicago Ave, Evanston, IL 60202
+
+	Dealer3: Oak Lawn Mazda
+		6750 W 95th St, Oak Lawn, IL 60453
+
+Audi: 
+	Dealer1: Continental Audi of Naperville
+		1527 Aurora Ave, Naperville, IL 60540
+
+	Dealer2: Fletcher Jones Audi
+		1523 W North Ave, Chicago, IL 60642
+
+	Dealer3: Audi Morton Grove
+		7000 Golf Rd, Morton Grove, IL 60053
+
+Mercedes:
+	Dealer1: Mercedes-Benz of Chicago
+		1520 W North Ave, Chicago, IL 60642
+
+	Dealer2: Mercedes-Benz Loeber Motors
+		2767 Lincolnwood, Il 60712
+
+	Dealer3: Mercedes-Benz of Westmont
+		200 E Ogden Ave, Westmont, IL 60559
+
+Aston Martin:
+	Dealer1: Napleton's Aston Martin Chicago
+		1038 N Clark St, Chicago, IL 60610
+
+	Dealer2: Aston Martin Dealership of Glenview
+		301 Waukegan Rd, Glenview, IL 60025
+
+	Dealer3: Napleton's Aston Martin Downers Grove
+		217 Ogden Ave, Downers Grove, IL 60515
+
+Toyota:
+	Dealer1: Chicago Northside Toyota
+		6042 N Western Ave, Chicago, IL 60659
+
+	Dealer2: Midtown Toyota
+		2700 N Cicero Ave, Chicago, IL 60639
+
+	Dealer3: Toyota On Western
+		6941 S Western Ave, Chicago, IL 60636
+
+Nissan:
+	Dealer1: Berman Nissan of Chicago
+		3456 N Kedzie Ave, Chicago, IL 60618
+
+	Dealer2: Western Avenue Nissan
+		7410 S Western Ave, Chicago, IL 60636
+
+	Dealer3: Al Piemonte Nissan
+		1600 W North Ave, Melrose Park, IL 60160

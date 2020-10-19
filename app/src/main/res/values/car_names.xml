@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subHeading">
+        <item>Mazda 3</item>
+        <item>Audi RS7</item>
+        <item>Mercedes G Wagon</item>
+        <item>McLaren P1</item>
+        <item>Toyota Prius</item>
+        <item>Nissan Cube</item>
+    </string-array>
+</resources>

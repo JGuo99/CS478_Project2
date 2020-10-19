@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_zero">Mazda Dealerships</string>
+
+    <string-array name="mazda_dealerships">
+        <item>
+            McGrath City Mazda\n3255 N Cicero Ave, Chicago, IL 60641
+        </item>
+        <item>
+            The Autobarn Mazda of Evanston\n1015 Chicago Ave, Evanston, IL 60202
+        </item>
+        <item>
+            Oak Lawn Mazda\n6750 W 95th St, Oak Lawn, IL 60453
+        </item>
+    </string-array>
+</resources>
